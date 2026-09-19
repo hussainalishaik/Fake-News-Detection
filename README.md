@@ -39,11 +39,20 @@ Fake-News-Detection/
 │   ├── news.csv
 │   └── testNews.txt
 │
+├── screenshots/
+│   ├── main-window.png
+│   ├── dataset-loaded.png
+│   ├── preprocessing.png
+│   ├── lstm-result.png
+│   ├── accuracy-loss.png
+│   └── prediction.png
+│
 ├── Main.py
 ├── run.bat
 └── SCREENS.docx
 
-## 🔍 How It Works
+
+🔍 How It Works
 
 News Text
     ↓
@@ -56,3 +65,5 @@ Deep Learning Model
 Prediction
     ↓
 Real / Fake
+
+
