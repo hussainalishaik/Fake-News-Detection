@@ -52,18 +52,44 @@ Fake-News-Detection/
 └── SCREENS.docx
 
 
-🔍 How It Works
+```
+
+## 🔍 How It Works
 
 News Text
-    ↓
+↓
 Text Processing
-    ↓
+↓
 Feature Extraction
-    ↓
+↓
 Deep Learning Model
-    ↓
+↓
 Prediction
-    ↓
+↓
 Real / Fake
 
+## 📸 Screenshots
 
+### Main Application
+
+![Main Application](./screenshots/main-window.png)
+
+### Dataset Loaded
+
+![Dataset Loaded](./screenshots/dataset-loaded.png)
+
+### Preprocessing
+
+![Preprocessing](./screenshots/preprocessing.png)
+
+### LSTM Model
+
+![LSTM Model](./screenshots/lstm-result.png)
+
+### Accuracy and Loss
+
+![Accuracy and Loss](./screenshots/accuracy-loss.png)
+
+### Prediction Result
+
+![Prediction Result](./screenshots/prediction.png)
